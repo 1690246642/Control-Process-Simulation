@@ -76,11 +76,11 @@ equal to 5, 5 control loops are required to set it to zero. The control
 loops of the tower are:
 
 
--Reboiler heat load control
--Condenser heat load control
--Distillate product control
--Tower downflow control
--Tower return flow control
+--Reboiler heat load control
+--Condenser heat load control
+--Distillate product control
+--Tower downflow control
+--Tower return flow control
 
 
 The distillate controller regulates the composition and quality of the 
