@@ -3,4 +3,5 @@ This file contains a comprehensive description of the project, including key exp
 If you wish to gain deeper insights into the project’s goals, methodologies, and workings, we strongly recommend reading this document thoroughly. It provides the context and technical foundation necessary to fully appreciate the project’s design and operation.
 
 
-1. **Brief description of coding process**
+
+1.**Brief description of coding process**
