@@ -35,5 +35,6 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
 4.**Liquid and vapor phase enthalpy calculation equations**
 - Enthalpy equation
    ![Equation2](Equation5.PNG)
-- Cp equation  
+  
+- Cp equation
    ![Equation2](Equation6.PNG)             
