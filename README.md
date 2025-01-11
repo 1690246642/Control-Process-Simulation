@@ -142,22 +142,44 @@ condenser, reboiler, trays of the Rectifying and Stripping sections,
 and the feed tray.**
    
 
-2. **Feed Location**:  
-   Feed enters near the middle of the tower.  
+2. **check in the open loop mode whether the system reaches 
+the steady state of the process or is always unstable. If it is not 
+stable, consider at least the control loops to stabilize its state and 
+calculate the steady values of all state variables and output 
+variables and explain how to calculate them.**
+    
 
-3. **Key Components**:
-   - **Reflux Drum**: Returns condensed liquid back to the tower.
-   - **Reboiler**: Vaporizes a portion of the liquid from the bottom of the tower.
+3. **According to the investigations carried out and the sensitivity 
+analysis of the temperature profile along the tower, it has been 
+determined that the highest temperature change slope is related to 
+the equilibrium stage 55. Now apply the mentioned control loops and 
+check the system in closed circuit. Note that the controlled 
+variables are the top pressure of the tower, the liquid height of the 
+reflux drum, the liquid height of the sump tower, the equilibrium 
+stage temperature of the 55th stage, and the feed entering the 
+tower**
 
-4. **Example**:
-   - **System**: Mixture of 50% n-butane and 50% n-pentane.
-   - **Column Specs**:
-     - 61 equilibrium stages.
-     - Feed enters at stage 23.
-     - Reflux ratio: 1.323.
-     - Boiler heat load: 0.758 MW.
+4. **Initially, identify the system by applying a step change and then 
+design a PI controller using the ITSE and IAE methods to control 
+the pressure and temperature. Then simulate the closed-loop system 
+in Simulink and examine the dynamic response of the process to a 
+±10% change in the setpoint of each controller and compare it with 
+each other.**
 
----
+
+5.  **Consider the system simulated in the previous step and this time 
+compare the performance of the controllers to the disturbance 
+rejection with a ±10% change in the feed molar flow rate, the 
+normalized mole fraction of butane in the feed, and the inlet flow 
+temperature, and obtain the stability limits of the controllers.**
+
+6.**As explained in the project form, one of the control approaches is 
+the output control. Now, the goal is to control the normal butane 
+concentration of the output in the distillate product with this 
+approach. In this way, by controlling the temperature of the 
+equilibrium stage, you should keep the normal butane concentration 
+of the output at 98% molar.**
+
 
 ## Control Strategies
 
@@ -168,26 +190,6 @@ The tower operation is maintained using control loops:
 3. **Distillate Product Control**: Regulates product purity via reflux adjustments.
 4. **Tower Downflow Control**: Balances liquid flow.
 5. **Tower Return Flow Control**: Manages reflux flow.
-
----
-
-## Modeling and Simulation
-
-1. **Equations and Assumptions**: Write equilibrium relations and mass/energy balances.
-2. **Open-Circuit Stability**: Check for steady state or instability.
-3. **Control Design**:
-   - Identify system dynamics.
-   - Design controllers using PI (ITSE/IAE) methods.
-   - Simulate responses to setpoint changes.
-
-4. **Disturbance Rejection**:
-   - Examine effects of ±10% variations in feed molar flow rate and temperature.
-
----
-
-## Output Control Goal
-
-Control the normal butane concentration in the distillate product to maintain 98% molar purity using equilibrium stage temperature control.
 
 ---
 
