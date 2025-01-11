@@ -49,5 +49,6 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
 
 
 - Liquid and vapor phase density calculation equations
-  
+
+  ![Equation2](Eq1.PNG)
           
