@@ -67,26 +67,64 @@ You can see the overal picture of this system in the next page.
 ![Debotanizer Tower Flowsheet](Flow.PNG)
 
 
-## Location
-
-- Iran, Tehran
-- Sharif University of Technology
-- Faculty of Chemical Engineering
-
----
-
-## Introduction
-
-Distillation is a common separation technique for liquid streams containing several components and is one of the most important unit operations in chemical manufacturing processes. Distillation is designed and controlled to produce a product stream of the required purity, whether for sale or for use in other chemical processes.
-
-### Basic Principles
-
-- **Separation Basis**: Distillation separates components of a liquid mixture by differences in boiling points.  
-- **Component Terms**:
-  - The component with a lower boiling point is called the *light component*.
-  - The component with a higher boiling point is called the *heavy component*.
-- Example: In a mixture of benzene and toluene, benzene is the light component, and toluene is the heavy component.
-
+### Description about controllers
+First, check how many degrees of freedom this distillation tower 
+has, by setting it to zero, we can solve the equations governing the 
+tower and control the tower in steady state conditions (the answer 
+is 5). Now that the degrees of freedom of the distillation tower are 
+equal to 5, 5 control loops are required to set it to zero. The control 
+loops of the tower are:
+Reboiler heat load control
+Condenser heat load control
+Distillate product control
+Tower downflow control
+Tower return flow control
+The distillate controller regulates the composition and quality of the 
+product. In many systems, this controller adjusts the reflux ratio to 
+maintain the desired product purity. If the controller determines 
+that the top product meets specifications or needs to reach a desired 
+purity, it can increase the reflux ratio and return more liquid to the 
+tower, which will separate more of the lighter components from the 
+heavier ones. Similarly, the bottom product controller is responsible 
+for the purity of the bottom product. This loop often adjusts the 
+reboiler rate, which is the energy input to the boiler, to control the 
+concentration of the heavier component in the lower sections. If the 
+product is to be purer, the reboiler steam velocity is increased, 
+providing more steam to carry the heavier components from the 
+bottom of the tower up to the top of the tower where they can be 
+effectively separated. The reflux control loop regulates the flow of 
+the reboiler to the condenser. The reflux ratio, which is the rate of 
+reflux of liquid to distillate, is a key variable in determining the 
+efficiency and effectiveness of a tower. The reflux rate control loop 
+is often tied closely to the distillation controller to meet the tower 
+separation specifications. Each control loop is critical to the 
+distillation process. They are usually integrated in such a way that 
+changes in one loop can affect the others and require careful 
+balancing and tuning by process control engineers. Advanced control 
+strategies, such as multivariable control, cascade control, or model 
+predictive control, may be implemented to optimize the performance 
+of these loops. It is important to note that a valve must be considered 
+on the feed to the tower and for the outlet streams, and its pressureflow relationship must be included in your calculations. In distillation 
+towers, a temperature control strategy is usually used to control the 
+quality of the products, rather than directly measuring the 
+concentration of the main light and heavy components at the bottom 
+and top of the tower, respectively (two-point control approach1). This 
+is because not only are online concentration measurement equipment 
+usually very expensive, but the measurement signal is also delayed. On 
+the other hand, due to the large interaction between the control loops 
+in the decentralized two-point control approach (whether based on 
+temperature measurement or concentration measurement), the 
+single-point temperature control approach is usually used. For this 
+purpose, the temperature of one of the trays of the tower is selected 
+and controlled. Various methods have been proposed for selecting the 
+appropriate tray, the most common of which is selecting the tray at 
+the location where the greatest change in the temperature profile of 
+the tower occurs. Considering the dependence of concentration on the
+Temperature,by measuring the tray temperature,Inferring the 
+concentration and, in the event of disturbances, maintaining the 
+concentration distribution and product quality close to the desired 
+value. For this reason, this method is called the inferential control 
+strategy.
 ---
 
 ## Process Details
