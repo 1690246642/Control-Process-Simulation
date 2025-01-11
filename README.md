@@ -21,8 +21,7 @@ fraction of the light component in the vapor phase. For ideal mixtures,
 the phase equilibrium relationship is modeled based on relative 
 Evapotranspiration by the following equation:
 𝑦 =
-𝛼𝑥
-1 + (𝛼 − 1)𝑥
+𝛼𝑥/(1 + (𝛼 − 1)𝑥) 
 where alpha represents the relative volatility. If we consider a 
 conceptual design of the operation of a two-component distillation 
 tower, the feed usually enters near the middle of the tower. The 
