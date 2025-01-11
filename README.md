@@ -173,7 +173,7 @@ rejection with a ±10% change in the feed molar flow rate, the
 normalized mole fraction of butane in the feed, and the inlet flow 
 temperature, and obtain the stability limits of the controllers.**
 
-6.**As explained in the project form, one of the control approaches is 
+6.  **As explained in the project form, one of the control approaches is 
 the output control. Now, the goal is to control the normal butane 
 concentration of the output in the distillate product with this 
 approach. In this way, by controlling the temperature of the 
