@@ -24,3 +24,4 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
 
 3.**Equations**
 - Mass (total and partial) and energy balance for the condenser (stage 1):
+  - ![Equation](Equation1.PNG)
