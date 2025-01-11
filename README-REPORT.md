@@ -21,3 +21,6 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
 - 10) Thermodynamic calculations: The relative fugacity is not constant throughout the tower and the modified Raoult's law is used to perform thermodynamic calculations.
 - 11) Condenser and reboiler dynamics: The condenser and reboiler dynamics (dynamics of the upper and lower heat exchangers) are ignored.
 - 12) Tower operating pressure: The pressure of this tower is not constant and the pressure drop at each stage (trays) is considered.
+
+3.**Equations**
+- Mass (total and partial) and energy balance for the condenser (stage 1):
