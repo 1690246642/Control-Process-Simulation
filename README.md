@@ -131,13 +131,16 @@ value. For this reason, this method is called the inferential control
 strategy.
 
 
-## Process Details
+## Process goals
 
-The following describes the general operation of a distillation tower:
+In this project we have tried to answer following questions:
 
-1. **Vapor and Liquid Phases**:
-   - Vapor flows upwards, while liquid flows downwards.
-   - Mass transfer occurs between the two phases.
+1.  First, write all the assumptions, equations and equilibrium relations 
+related to the vapor and liquid phases for modeling, and then write 
+the total and partial mass balance and energy balance for the 
+condenser, reboiler, trays of the Rectifying and Stripping sections, 
+and the feed tray.
+   
 
 2. **Feed Location**:  
    Feed enters near the middle of the tower.  
