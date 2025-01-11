@@ -41,4 +41,9 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
   
 - Cp equation
  
-   ![Equation2](Equation6.PNG)             
+   ![Equation2](Equation6.PNG)
+
+- Enthalpy of vaporization
+
+   ![Equation2](Equation7.PNG)
+          
