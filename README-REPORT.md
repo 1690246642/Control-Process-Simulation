@@ -15,7 +15,7 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
 - 4) Efficiency of the trays: The trays of the tower are completely ideal and their efficiency is 100%.
 - 5) Vapor phase retention: The vapor phase retention on each tray is ignored due to its small density compared to the liquid phase.
 - 6) Molar heat of vaporization: The molar heat of vaporization of both components (binary mixture) is not equal to each other and the energy balance must be considered for each stage.
-- 7) Number of equilibrium stages: This tower has -2N equilibrium stages except for the reboiler and condenser. (Trays) is also another.
+- 7) Number of equilibrium stages: This tower has N-2 equilibrium stages except for the reboiler and condenser. (Trays) is also another.
 - 8) Ideal agitation of trays: The percentage composition of components at different points of a tray (equilibrium stage) is the same and the concentration does not have a geographical distribution.
 - 9) Liquid phase retention: The liquid phase retention is considered variable.
 - 10) Thermodynamic calculations: The relative fugacity is not constant throughout the tower and the modified Raoult's law is used to perform thermodynamic calculations.
