@@ -27,3 +27,7 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
    ![Equation](Equation1.PNG)
 - Mass (total and partial) and energy balance for all trays except the feed tray
    ![Equation](Equation2.PNG)
+- Mass (total and partial) and energy balance for the feed tray
+   ![Equation](Equation3.PNG)
+- Mass (total and partial) and energy balance for the reboiler (final stage)
+   ![Equation](Equation4.PNG)
