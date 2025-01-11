@@ -31,8 +31,9 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
    ![Equation](Equation3.PNG)
 - Mass (total and partial) and energy balance for the reboiler (final stage)
    ![Equation](Equation4.PNG)
+  
 4.**Liquid and vapor phase enthalpy calculation equations**
 - Enthalpy equation
-   ![Equation](Equation5.PNG)
+   ![Equation2](Equation5.PNG)
 - Cp equation  
-   ![Equation](Equation6.PNG)             
+   ![Equation2](Equation6.PNG)             
