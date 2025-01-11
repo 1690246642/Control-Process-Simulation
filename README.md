@@ -64,7 +64,7 @@ tray pressure drop is specified as 0.1 𝑝𝑠𝑖 at each stage. With a reflux
 of the tower is also 4.9 atm.
 You can see the overal picture of this system in the next page.
 
-![Debotanizer Tower Flowsheet](images/flow.PNG)
+![Debotanizer Tower Flowsheet](Flow.PNG)
 
 
 ## Location
