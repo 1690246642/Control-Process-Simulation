@@ -50,7 +50,7 @@ use 𝑦𝑖+1 and 𝑉𝑖+1 for its molar fraction and molar flow rate,
 respectively. Now, let's proceed to modeling the normal butane and 
 normal pentane distillation towers. First, you should review the 
 problem specification and the governing assumptions and equations. A 
-butanizer column is considered as a sample. A mixture of 50 mol% nbutane (4nC) and 50 mol% n-pentane (5nC) is separated in a column 
+butanizer column is considered as a sample. A mixture of 50 mol% n-butane (nC4) and 50 mol% n-pentane (nC5) is separated in a column 
 with 61 equilibrium stages. The feed molar flow rate is 100 km/h and 
 the feed enters the equilibrium stage 23 (the condenser is stage 1). 
 The design specifications are 1 mol% pure 5nC in the distillate and 1 
