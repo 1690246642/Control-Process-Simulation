@@ -125,7 +125,7 @@ concentration and, in the event of disturbances, maintaining the
 concentration distribution and product quality close to the desired 
 value. For this reason, this method is called the inferential control 
 strategy.
----
+
 
 ## Process Details
 
