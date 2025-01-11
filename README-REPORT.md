@@ -5,3 +5,4 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
 
 
 1.**Brief description of coding process**
+- In the process of implementing the project, we first extract the equations, then implement the equations in the code and check them in open-loop mode. Then, in case of system instability, we implement the necessary control loops to stabilize the system. Finally, the required controllers and requirements are implemented to complete the project requirements.
