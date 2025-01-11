@@ -6,3 +6,18 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
 
 1.**Brief description of coding process**
 - In the process of implementing the project, we first extract the equations, then implement the equations in the code and check them in open-loop mode. Then, in case of system instability, we implement the necessary control loops to stabilize the system. Finally, the required controllers and requirements are implemented to complete the project requirements.
+
+
+2.**Assumptions**
+- 1) Number of components of the mixture to be separated: The mixture to be separated is binary.
+- 2) Physical state of the feed: The feed enters the distillation tower in a saturated liquid state.
+- 3) Insulation of the distillation tower: The distillation tower is completely insulated and there is no heat exchange with the environment. (There is no energy loss).
+- 4) Efficiency of the trays: The trays of the tower are completely ideal and their efficiency is 100%.
+- 5) Vapor phase retention: The vapor phase retention on each tray is ignored due to its small density compared to the liquid phase.
+- 6) Molar heat of vaporization: The molar heat of vaporization of both components (binary mixture) is not equal to each other and the energy balance must be considered for each stage.
+- 7) Number of equilibrium stages: This tower has -2N equilibrium stages except for the reboiler and condenser. (Trays) is also another.
+- 8) Ideal agitation of trays: The percentage composition of components at different points of a tray (equilibrium stage) is the same and the concentration does not have a geographical distribution.
+- 9) Liquid phase retention: The liquid phase retention is considered variable.
+- 10) Thermodynamic calculations: The relative fugacity is not constant throughout the tower and the modified Raoult's law is used to perform thermodynamic calculations.
+- 11) Condenser and reboiler dynamics: The condenser and reboiler dynamics (dynamics of the upper and lower heat exchangers) are ignored.
+- 12) Tower operating pressure: The pressure of this tower is not constant and the pressure drop at each stage (trays) is considered.
