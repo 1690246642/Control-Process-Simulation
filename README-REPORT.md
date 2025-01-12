@@ -127,3 +127,9 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
 
    ![Equation2](images1//bandd4.PNG) 
      
+
+8.**Examination of the distillation column in open loop mode: (Model 1)**
+
+   - The above equations are coded in the Distillation_Column_V1.m code as an open loop system.In this code, the vapor phase is assumed to be ideal and the simple Raoult equation is used for calculations.
+
+   - 
