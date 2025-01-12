@@ -73,4 +73,5 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
 
    - To calculate the liquid phase flow rate, we use the Francis Band equation, which is as follows:
 
+      ![Equation2](band.PNG)
      
