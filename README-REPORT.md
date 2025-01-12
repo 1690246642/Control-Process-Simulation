@@ -55,7 +55,7 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
 
 
   
-  ![Equation2](E2.PNG)
+  ![Equation2](Eq2.PNG)
 
 
 
