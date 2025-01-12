@@ -152,5 +152,5 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
 
    - To calculate the flow rate in this case, we consider the Distillation column in a steady state:
 
+     ![Equation3](images1//bandd12.PNG) 
       
-   - 
