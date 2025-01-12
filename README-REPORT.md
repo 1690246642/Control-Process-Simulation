@@ -146,4 +146,11 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
         - The temperatures T1 and T2 are calculated from the Antoine equation mentioned above as follows:
     
           ![Equation3](images1//bandd12.PNG)
-     
+
+
+10.**Calculation of vapor phase flow rate for each tray:**
+
+   - To calculate the flow rate in this case, we consider the Distillation column in a steady state:
+
+      
+   - 
