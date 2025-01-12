@@ -136,5 +136,8 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
 9.**Implementation challenges and code issues:**
 
    - Modifying Distillation column equations in the model:
-       - It was observed in the code that due to the complexity of the equations, the code does not provide desirable results; therefore, for convenience, we omit the energy balance equation and since the pressure of each tray is known, we use the following equation to calculate the temperature of each tray.
+     
+        - It was observed in the code that due to the complexity of the equations, the code does not provide desirable results; therefore, for convenience, we omit the energy balance equation and since the pressure of each tray is known, we use the following equation to calculate the temperature of each tray.
+    
+        
            ![Equation2](images1//bandd11.PNG) 
