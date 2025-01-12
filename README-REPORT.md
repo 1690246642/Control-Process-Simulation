@@ -122,3 +122,8 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
    - Several relationships have been proposed to calculate the correction factor, and here we use the NRTL relationship for binary mixtures, which is as follows:
    
    ![Equation2](images1//bandd3.PNG) 
+
+   - In the next step, we calculate the relative volatility so that we can calculate the percentage composition at each stage from the following relationships:
+
+   ![Equation2](images1//bandd4.PNG) 
+     
