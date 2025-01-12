@@ -143,7 +143,7 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
 
 
 
-    ![Equation2](images1//bandd11.PNG)
+      ![Equation3](images1//bandd11.PNG)
 
 
      
