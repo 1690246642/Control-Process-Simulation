@@ -111,7 +111,8 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
 
 7.**Equations for calculating the percentage composition of the liquid and vapor phases:**
 
-     ![Equation2](images1/bandd.PNG)
+
+![Equation2](images1//bandd.PNG)
 
 
 
