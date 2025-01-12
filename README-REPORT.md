@@ -95,10 +95,14 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
      ![Equation2](band5.PNG)
 
 
-   - The average molecular mass is also calculated using the following equation:The average molecular mass is also calculated using the following equation:
+   
       
 
    - We also use the following equation to calculate the vapor phase flow rate:
 
 
      ![Equation2](band7.PNG)
+
+
+
+   - The average molecular mass is also calculated using the following equation:The average molecular mass is also calculated using the following equation:
