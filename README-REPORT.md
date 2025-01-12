@@ -89,7 +89,7 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
 
 
 
-    - By applying unit conversion, the final equation will be as follows:
+   - By applying unit conversion, the final equation will be as follows:
 
-      ![Equation2](band5.PNG)
+    ![Equation2](band5.PNG)
       
