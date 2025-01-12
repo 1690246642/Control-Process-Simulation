@@ -119,6 +119,6 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
    ![Equation2](images1//bandd2.PNG)  
 
 
-   -Several relationships have been proposed to calculate the correction factor, and here we use the NRTL relationship for binary mixtures, which is as follows:
+   - Several relationships have been proposed to calculate the correction factor, and here we use the NRTL relationship for binary mixtures, which is as follows:
    
    ![Equation2](images1//bandd3.PNG) 
