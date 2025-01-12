@@ -98,4 +98,4 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
    - We also use the following equation to calculate the vapor phase flow rate:
 
 
-     ![Equation2](band6.PNG)
+     ![Equation2](band7.PNG)
