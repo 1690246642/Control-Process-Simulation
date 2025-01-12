@@ -84,3 +84,5 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
 
 
    - Finally, the liquid phase flow rate is calculated from the following equation as follows:
+
+     ![Equation2](band4.PNG)
