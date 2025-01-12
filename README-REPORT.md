@@ -143,5 +143,7 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
 
           ![Equation3](images1//band11.PNG)
 
-
+        - The temperatures T1 and T2 are calculated from the Antoine equation mentioned above as follows:
+    
+          ![Equation3](images1//bandd12.PNG)
      
