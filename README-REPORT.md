@@ -157,3 +157,7 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
      ![Equation3](images1//Band21.PNG)
 
      ![Equation3](images1//Band22.PNG)
+
+     ![Equation3](images1//Band23.PNG)
+
+     ![Equation3](images1//Band24.PNG)
