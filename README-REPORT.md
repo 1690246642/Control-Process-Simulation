@@ -108,3 +108,8 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
    - The average molecular mass is also calculated using the following equation:The average molecular mass is also calculated using the following equation:
 
      ![Equation2](band8.PNG)
+
+
+   - Equations for calculating the percentage composition of the liquid and vapor phases:
+
+     ![Equation2](band8.PNG)
