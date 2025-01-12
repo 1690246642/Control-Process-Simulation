@@ -58,10 +58,15 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
   ![Equation2](Eq2.PNG)
 
 
-6.**Liquid and vapor phase flow rate calculation equations**
 
 
 
 
    
   ![Equation2](Eq3.PNG)
+
+
+
+
+
+6.**Liquid and vapor phase flow rate calculation equations**
