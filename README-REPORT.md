@@ -132,4 +132,4 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
 
    - The above equations are coded in the Distillation_Column_V1.m code as an open loop system.In this code, the vapor phase is assumed to be ideal and the simple Raoult equation is used for calculations.
 
-   - 
+9.**Implementation challenges and code issues:**
