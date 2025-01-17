@@ -187,3 +187,9 @@ Fnal_answer.m code to see the results of the controllers. The controller respons
        - • Numerically calculating the integral of the proportional-integral controller
        - • Eliminating the energy balance equations of the system
        - • Applying many assumptions to simplify the system
+    
+15.**Introduction to ITSE and IAE controllers**
+   - One of the most important parts of control systems is the design of a suitable controller. There are various types of digital controllers such as PID, PI and P controllers. In controller design, the type of disturbance detection and system error correction are the most important indicators of control design. Therefore, the selection of parameters that optimize the performance of the system is of interest to control engineers. To evaluate this issue, there are performance indicators, two of which are examined here.
+   - IAE (Integral Squared Error) Optimization Method:
+      - This index is calculated by integrating the squared error signal over time. The error signal is the difference between the reference input signal and the actual output signal. Mathematically, this algorithm is as follows:
+      - ![Equation3](images1//result6.PNG)
