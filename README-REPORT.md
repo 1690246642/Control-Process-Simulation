@@ -206,3 +206,7 @@ Fnal_answer.m code to see the results of the controllers. The controller respons
 
    - Results of IAE controller for Distillation column temperature control:
    - ![Equation3](images1//result9.PNG)
+
+
+   - IAE controller for Distillation column pressure control:
+   - ![Equation3](images1//result10.PNG)
