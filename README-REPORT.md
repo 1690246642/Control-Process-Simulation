@@ -199,4 +199,6 @@ Fnal_answer.m code to see the results of the controllers. The controller respons
     
 
 16.**ITSE controller for Distillation column temperature control**
-    ![Equation3](images1//result8.PNG)
+
+
+   ![Equation3](images1//result8.PNG)
