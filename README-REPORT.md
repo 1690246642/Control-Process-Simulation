@@ -171,3 +171,9 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
 12.**Development of controllers required for column**
    - from results of previous method without controller we obtain that our system is so unsteady that leads to NAN number of data to avert this results we tune controllers to make it steady.
    - Controller for controlling liquid level in condenser and reboiler: controlled_hold_up.m
+   - Controller to control the concentration of products at the top and bottom of the column: closed_loop_2.m
+13.**Examination of the distillation column in open loop mode: (Model 2)**
+   - Finally, after designing the controllers, we want to see their results on the Distillation column. To see these results, first the
+initialization.m code must be executed to make the initial conditions for the controllers available. In the next step, we must execute the
+Fnal_answer.m code to see the results of the controllers. The controller response graph is as follows.
+   - ![Equation4](images1//result2.PNG)
