@@ -194,4 +194,5 @@ Fnal_answer.m code to see the results of the controllers. The controller respons
       - This index is calculated by integrating the squared error signal over time. The error signal is the difference between the reference input signal and the actual output signal. Mathematically, this algorithm is as follows:
       - ![Equation3](images1//result6.PNG)
    - ITSE (Integral Time Squared Error) Optimization Method:
+   - The ITSE (Integral of Time-Weighted Squared Error) optimization method is commonly used in the design of control systems to improve the performance of controllers. This method is implemented using various optimization algorithms such as genetic algorithms, gravity search algorithms, or artificial intelligence methods.
       - ![Equation3](images1//result7.PNG)
