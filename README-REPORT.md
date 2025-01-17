@@ -183,7 +183,7 @@ Fnal_answer.m code to see the results of the controllers. The controller respons
 14.**Final conclusions and implementation challenges:**
    - As a result of the diagrams, we see that the controllers issue desirable control commands, but the system response is not desirable, and this can be caused by the following reasons:
        - • Divergent initial conditions for the system
-• Having undetectable disturbances for the system
-• Numerically calculating the integral of the proportional-integral controller
-• Eliminating the energy balance equations of the system
-• Applying many assumptions to simplify the system
+       - • Having undetectable disturbances for the system
+       - • Numerically calculating the integral of the proportional-integral controller
+       - • Eliminating the energy balance equations of the system
+       - • Applying many assumptions to simplify the system
