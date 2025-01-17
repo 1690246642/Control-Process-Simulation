@@ -193,3 +193,5 @@ Fnal_answer.m code to see the results of the controllers. The controller respons
    - IAE (Integral Squared Error) Optimization Method:
       - This index is calculated by integrating the squared error signal over time. The error signal is the difference between the reference input signal and the actual output signal. Mathematically, this algorithm is as follows:
       - ![Equation3](images1//result6.PNG)
+   - ITSE (Integral Time Squared Error) Optimization Method:
+      - ![Equation3](images1//result7.PNG)
