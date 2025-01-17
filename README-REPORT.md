@@ -177,4 +177,5 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
 initialization.m code must be executed to make the initial conditions for the controllers available. In the next step, we must execute the
 Fnal_answer.m code to see the results of the controllers. The controller response graph is as follows.
    - ![Equation4](images1//result2.PNG)     ![Equation4](images1//result3.PNG)
-   - 
+
+   - ![Equation4](images1//result4.PNG)     ![Equation4](images1//result5.PNG)
