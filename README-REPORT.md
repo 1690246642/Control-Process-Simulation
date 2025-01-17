@@ -161,3 +161,8 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
      ![Equation3](images1//Band23.PNG)
 
      ![Equation3](images1//Band24.PNG)
+
+11.**Examination of the distillation column in open loop mode: (Model 2)**
+   - It is related to Distillation_column_last_version.m code so for understanding please check this code in my repository.
+   - Considering the responses of the system in the open-loop state, we find that the system is unstable in the open-loop state.
+   - 
