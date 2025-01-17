@@ -196,3 +196,5 @@ Fnal_answer.m code to see the results of the controllers. The controller respons
    - ITSE (Integral Time Squared Error) Optimization Method:
    - The ITSE (Integral of Time-Weighted Squared Error) optimization method is commonly used in the design of control systems to improve the performance of controllers. This method is implemented using various optimization algorithms such as genetic algorithms, gravity search algorithms, or artificial intelligence methods.
       - ![Equation3](images1//result7.PNG)
+16.**ITSE controller for Distillation column temperature control**
+    ![Equation3](images1//result8.PNG)
