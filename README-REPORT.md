@@ -167,3 +167,7 @@ If you wish to gain deeper insights into the project’s goals, methodologies, a
    - Considering the responses of the system in the open-loop state, we find that the system is unstable in the open-loop state.
 
    - ![Equation4](images1//result.PNG)
+
+12.**Development of controllers required for column**
+   - from results of previous method without controller we obtain that our system is so unsteady that leads to NAN number of data to avert this results we tune controllers to make it steady.
+   - Controller for controlling liquid level in condenser and reboiler: controlled_hold_up.m
