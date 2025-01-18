@@ -210,6 +210,10 @@ Fnal_answer.m code to see the results of the controllers. The controller respons
 
    - IAE controller for Distillation column pressure control:
    - ![Equation3](images1//result10.PNG)
+
+
+
+
 17.**Introduction to the inferential controller approach:**
      -As seen in most control systems, it is not always possible to control the output variable directly with the input variable, and this is where an approach called inferential control comes into play. According to this approach, instead of controlling a variable, we use a surrogate variable. Here the following definitions become important.
      - Controlled variables: are the set of quantities that, in the absence of a controller, change from one previous value to another over time due to changes in disturbances. These types of outputs are the most important quantities that are discussed and selected when designing a control (during coupling). The level or height of a liquid in a process vessel, the temperature of the process fluid, and the output from a heat exchanger or the temperature of a reactor are examples of controlled variables.
